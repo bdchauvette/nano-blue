@@ -1,0 +1,29 @@
+{
+  "name": "nano-blue",
+  "version": "0.1.0",
+  "description": "A (bluebird promisified) minimalistic couchdb driver for node.js",
+  "main": "lib/nano-blue.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bdchauvette/nano-blue"
+  },
+  "keywords": [
+    "couchdb",
+    "bluebird",
+    "nosql",
+    "promises"
+  ],
+  "author": {
+    "name": "Ben Chauvette",
+    "email": "bdchauvette@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bdchauvette/nano-blue/issues"
+  },
+  "dependencies": {
+    "bluebird": "^2.9.24",
+    "lodash": "^3.6.0",
+    "nano": "^6.1.2"
+  }
+}
