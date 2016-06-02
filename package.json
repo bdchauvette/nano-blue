@@ -1,6 +1,6 @@
 {
   "name": "nano-blue2",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "description": "A fork of nano-blue with updated dependencies",
   "main": "lib/nano-blue.js",
   "repository": {
